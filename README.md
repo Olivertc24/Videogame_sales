@@ -56,7 +56,9 @@ Analizar los patrones históricos y los factores determinantes en las ventas glo
 
 
 **1.** Describir la evolución temporal de las ventas globales, identificando tendencias, ciclos y puntos de inflexión en la serie de tiempo.
+
 **2.** Determinar la influencia de las variables categóricas (Género y Plataforma) en la distribución de las ventas por región geográfica (Norteamérica, Europa y Japón).
+
 **3.** Generar un reporte técnico reproducible en formato PDF que integre visualizaciones estadísticas y tablas resumen utilizando RMarkdown y LaTeX.
 
 ###### Informe Estadistico con Rmarkdown: 
