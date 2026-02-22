@@ -10,17 +10,16 @@ El presente trabajo de investigación tiene como propósito realizar un análisi
 
 Este documento técnico se encuentra estructurado en cinco capítulos fundamentales:
 
-\begin{itemize}
-    \item En el \textbf{Capítulo I}, se plantea la problemática de la imprevisibilidad financiera en el desarrollo de software de entretenimiento, formulando las preguntas de investigación y delimitando el alcance temporal y geográfico del estudio.
+**Capítulo I**, se plantea la problemática de la imprevisibilidad financiera en el desarrollo de software de entretenimiento, formulando las preguntas de investigación y delimitando el alcance temporal y geográfico del estudio.
     
-    \item El \textbf{Capítulo II} establece el Marco Teórico, definiendo los conceptos estadísticos clave como esperanza matemática, series de tiempo y correlación, necesarios para la interpretación de los datos.
+**Capítulo II** establece el Marco Teórico, definiendo los conceptos estadísticos clave como esperanza matemática, series de tiempo y correlación, necesarios para la interpretación de los datos.
     
-    \item El \textbf{Capítulo III} describe el Marco Metodológico, detallando el proceso de limpieza de datos (ETL), las pruebas de hipótesis y los algoritmos utilizados para validar la calidad de la información.
+**Capítulo III** describe el Marco Metodológico, detallando el proceso de limpieza de datos (ETL), las pruebas de hipótesis y los algoritmos utilizados para validar la calidad de la información.
+
+**Capítulo IV** presenta el Análisis de Resultados, donde se exhiben las tablas y gráficos generados dinámicamente, discutiendo los hallazgos sobre la concentración de mercado (Ley de Pareto) y la dinámica temporal.
     
-    \item El \textbf{Capítulo IV} presenta el Análisis de Resultados, donde se exhiben las tablas y gráficos generados dinámicamente, discutiendo los hallazgos sobre la concentración de mercado (Ley de Pareto) y la dinámica temporal.
-    
-    \item Finalmente, en el \textbf{Capítulo V}, se exponen las Conclusiones y Recomendaciones estratégicas derivadas del análisis cuantitativo, orientadas a la toma de decisiones basada en datos (\textit{Data-Driven Decision Making}).
-\end{itemize}
+**Capítulo V**, se exponen las Conclusiones y Recomendaciones estratégicas derivadas del análisis cuantitativo, orientadas a la toma de decisiones basada en datos (\textit{Data-Driven Decision Making}).
+
 
 Este reporte no solo pretende ofrecer una radiografía del pasado de la industria, sino también establecer una metodología reproducible para el análisis de riesgo en portafolios de productos digitales.
 
@@ -55,10 +54,9 @@ Analizar los patrones históricos y los factores determinantes en las ventas glo
 
 ### Objetivos Específicos
 
-\begin{enumerate}
-  \item Describir la evolución temporal de las ventas globales, identificando tendencias, ciclos y puntos de inflexión en la serie de tiempo.
-  \item Determinar la influencia de las variables categóricas (Género y Plataforma) en la distribución de las ventas por región geográfica (Norteamérica, Europa y Japón).
-  \item Generar un reporte técnico reproducible en formato PDF que integre visualizaciones estadísticas y tablas resumen utilizando RMarkdown y LaTeX.
-\end{enumerate}
+
+  Describir la evolución temporal de las ventas globales, identificando tendencias, ciclos y puntos de inflexión en la serie de tiempo.
+  Determinar la influencia de las variables categóricas (Género y Plataforma) en la distribución de las ventas por región geográfica (Norteamérica, Europa y Japón).
+  Generar un reporte técnico reproducible en formato PDF que integre visualizaciones estadísticas y tablas resumen utilizando RMarkdown y LaTeX.
 
 ![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/R-blue) ![Static Badge](https://img.shields.io/badge/Python-yellow) 
