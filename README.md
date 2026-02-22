@@ -61,7 +61,7 @@ Analizar los patrones históricos y los factores determinantes en las ventas glo
 
 **3.** Generar un reporte técnico reproducible en formato PDF que integre visualizaciones estadísticas y tablas resumen utilizando RMarkdown y LaTeX.
 
-###### Informe Estadistico con Rmarkdown: 
+###### Informe Estadistico con Rmarkdown: https://videogame-sales.onrender.com/informe.pdf
 ###### Dashboard con streamlit: 
 
 ![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/R-blue) ![Static Badge](https://img.shields.io/badge/Python-yellow) 
