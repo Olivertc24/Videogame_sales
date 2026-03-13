@@ -1,6 +1,6 @@
 ---
 # --- Metadatos Básicos ---
-title: "Analisis del Mercado de Videojuegos"
+title: "Analisis del Mercado de Videojuegos por Plataforma"
 author:
    - Primer participante
    - Segundo participante
